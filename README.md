@@ -13,159 +13,159 @@ The difference being whether a common noun has its first letter capitalised.
 - [What's going on?](#whats-going-on)
 - [Why did it happen?](#why-did-it-happen)
 
-## 50 common nouns
+# 50 common nouns
 In an effort to show lack of bias, I have taken the top 50 nouns from [this list](https://www.espressoenglish.net/100-common-nouns-in-english/).
 
 I may increase this number at some point, but only in the order as listed on that page.
 
-_time_
+### time
 ![time](images/samples/001_time.png)
 
-_year_
+### year
 ![year](images/samples/002_year.png)
 
-_people_
+### people
 ![people](images/samples/003_people.png)
 
-_way_
+### way
 ![way](images/samples/004_way.png)
 
-_day_
+### day
 ![day](images/samples/005_day.png)
 
-_man_
+### man
 ![man](images/samples/006_man.png)
 
-_thing_
+### thing
 ![thing](images/samples/007_thing.png)
 
-_woman_
+### woman
 ![woman](images/samples/008_woman.png)
 
-_life_
+### life
 ![life](images/samples/009_life.png)
 
-_child_
+### child
 ![child](images/samples/010_child.png)
 
-_world_
+### world
 ![world](images/samples/011_world.png)
 
-_school_
+### school
 ![school](images/samples/012_school.png)
 
-_state_
+### state
 ![state](images/samples/013_state.png)
 
-_family_
+### family
 ![family](images/samples/014_family.png)
 
-_student_
+### student
 ![student](images/samples/015_student.png)
 
-_group_
+### group
 ![group](images/samples/016_group.png)
 
-_country_
+### country
 ![country](images/samples/017_country.png)
 
-_problem_
+### problem
 ![problem](images/samples/018_problem.png)
 
-_hand_
+### hand
 ![hand](images/samples/019_hand.png)
 
-_part_
+### part
 ![part](images/samples/020_part.png)
 
-_place_
+### place
 ![place](images/samples/021_place.png)
 
-_case_
+### case
 ![case](images/samples/022_case.png)
 
-_week_
+### week
 ![week](images/samples/023_week.png)
 
-_company_
+### company
 ![company](images/samples/024_company.png)
 
-_system_
+### system
 ![system](images/samples/025_system.png)
 
-_program_
+### program
 ![program](images/samples/026_program.png)
 
-_question_
+### question
 ![question](images/samples/027_question.png)
 
-_work_
+### work
 ![work](images/samples/028_work.png)
 
-_government_
+### government
 ![government](images/samples/029_government.png)
 
-_number_
+### number
 ![number](images/samples/030_number.png)
 
-_night_
+### night
 ![night](images/samples/031_night.png)
 
-_point_
+### point
 ![point](images/samples/032_point.png)
 
-_home_
+### home
 ![home](images/samples/033_home.png)
 
-_water_
+### water
 ![water](images/samples/034_water.png)
 
-_room_
+### room
 ![room](images/samples/035_room.png)
 
-_mother_
+### mother
 ![mother](images/samples/036_mother.png)
 
-_area_
+### area
 ![area](images/samples/037_area.png)
 
-_money_
+### money
 ![money](images/samples/038_money.png)
 
-_story_
+### story
 ![story](images/samples/039_story.png)
 
-_fact_
+### fact
 ![fact](images/samples/040_fact.png)
 
-_month_
+### month
 ![month](images/samples/041_month.png)
 
-_lot_
+### lot
 ![lot](images/samples/042_lot.png)
 
-_right_
+### right
 ![right](images/samples/043_right.png)
 
-_study_
+### study
 ![study](images/samples/044_study.png)
 
-_book_
+### book
 ![book](images/samples/045_book.png)
 
-_eye_
+### eye
 ![eye](images/samples/046_eye.png)
 
-_job_
+### job
 ![job](images/samples/047_job.png)
 
-_word_
+### word
 ![word](images/samples/048_word.png)
 
-_business_
+### business
 ![business](images/samples/049_business.png)
 
-_issue_
+### issue
 ![issue](images/samples/050_issue.png)
 
 All graphs between 1650 and 1800 from the corpus English with smoothing of 3.

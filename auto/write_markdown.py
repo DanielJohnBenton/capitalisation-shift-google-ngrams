@@ -8,7 +8,7 @@ output = f"# {nSamples} common nouns\nIn an effort to show lack of bias, I have 
 
 for fileName in fileNames:
 	word = fileName[:-4].split("_")[1]
-	output += f"\n\n_{word}_\n![{word}](images/samples/{fileName})"
+	output += f"\n\n### {word}\n![{word}](images/samples/{fileName})"
 
 with open("output.md", "w", encoding="utf-8") as outFile:
 	outFile.write(output)
