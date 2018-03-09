@@ -1,6 +1,6 @@
 # The Great Capitalisation Shift(s)
 
-[Google Ngram Viewer](https://books.google.com/ngrams) shows how a grammar convention changed twice in under a century
+[Google Ngram Viewer](https://books.google.com/ngrams) shows how __a grammar convention changed twice in under a century__.
 
 Graphing frequency of common nouns in a huge corpus of English-language books, this feature is very common between late 17th centry and mid 18th century:
 
